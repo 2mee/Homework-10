@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Cute+Font|Prosto+One');
+
+body{
+	background-color: teal;
+	font-family: Prosto One;
+	margin: 1em 5em;
+}
+
+img{
+	margin: 20px 0;
+	width: auto;
+}
+
+.menu a{
+	color: Silver;
+}
+.menu hr{
+	margin-top: 15px;
+	margin-bottom:15px;
+}
+
+.menu:hover{
+	font-color: #61b351;
+}
+
+.firstsection, .secondsection, .productdiv{
+	margin: 50px 0;
+	padding: 10px;
+	background-color: silver;
+	width: auto;
+}
+h1{
+	font-family: Cute Font;
+	font-size: 5rem;
+	padding: 0;
+	margin: 0;
+}
+ 
+
+.productdiv h2{
+	font-family: Cute Font;
+	font-size: 5rem;
+	background-color: silver;
+	padding: -3% 0 -1% 0;
+	margin: 0;
+}
+
+ul{
+	list-style-type: none;
+}
+ol{
+
+}
+footer{
+	background-color: black;
+	width: auto;
+	height: auto;
+	color: silver;
+	padding: 25px 0 ;
+	font-size: 0.8em;
+	text-align: center;
+}
